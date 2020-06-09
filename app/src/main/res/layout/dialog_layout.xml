@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Switch
+        android:id="@+id/switchA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Angklung" />
+
+    <Switch
+        android:id="@+id/switchB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bonang" />
+
+    <Switch
+        android:id="@+id/switchC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Suling" />
+</LinearLayout>

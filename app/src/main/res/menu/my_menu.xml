@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh_logo_white"
+        android:title="Refresh"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_queuelist"
+        android:icon="@drawable/queue_list_logo"
+        android:title="Queue List"
+        app:showAsAction="always"
+        />
+</menu>
